@@ -1,1 +1,1 @@
-include ':app', ':swipeprime', ':common'
+include ':app', ':common'
